@@ -1,4 +1,4 @@
 Name:  Raymond Chen
-Email: RAYMOND.CHEN69@myhunter.cuny.edu
+Email: raymond.chen69@mylogin.cuny.edu
 Account name for my GitHub account
 Raymond Chen
