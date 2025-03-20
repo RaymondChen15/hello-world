@@ -1,3 +1,4 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
-I'm a ballroom dancer
+Name:  Raymond Chen
+Email: raymond.chen69@login.cuny.edu
+Account name for my GitHub account
+Raymond Chen
